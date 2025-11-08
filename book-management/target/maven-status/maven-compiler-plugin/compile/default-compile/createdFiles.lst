@@ -1,0 +1,4 @@
+com\renil\bookmanagement\controller\BookController.class
+com\renil\bookmanagement\BookManagementApplication.class
+com\renil\bookmanagement\model\Book.class
+com\renil\bookmanagement\repository\BookRepository.class
